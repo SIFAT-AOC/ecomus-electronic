@@ -412,6 +412,14 @@ body {
   font-weight: 400;
 }
 /* faq section end */
+
+/* footer start*/
+footer {
+  background-color: #fff;
+  color: #000;
+  border-top: 1px solid #0000001a;
+}
+/* footer end*/
 /* media query part */
 @media (max-width: 768px) {
   .carousel-caption {
