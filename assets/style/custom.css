@@ -496,4 +496,8 @@ footer {
   .tf-page-title.style-2 {
     padding: 35px 0 30px;
   }
+.collection-media img {
+    aspect-ratio: 12/14;
+    object-fit: cover;
+}
 }
