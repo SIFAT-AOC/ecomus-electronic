@@ -446,11 +446,7 @@ footer {
     aspect-ratio: 16/8 !important;
     object-fit: cover;
   }
-  .carousel-item img {
-    transform: scale(2.5);
-    aspect-ratio: 16/8 !important;
-    object-fit: cover;
-  }
+
   .slider-btn {
     padding: 8px 15px;
     border-radius: 50px;
